@@ -1,0 +1,50 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+  font-family: 'Nerko One', cursive;
+  font-size: 25px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #Snapshot
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+#heading{
+  font-size: 30px;
+  letter-spacing: 10px;
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 20px;
+}
+
+button{
+font-size: 27px; 
+}
+
+label{
+
+padding-left: 20px;
+
+padding-right:20px;
+  background-image: linear-gradient(to right bottom, #cfe071, #d0cb58, #d0b541, #d0a02f, #ce8920, #d18026, #d2772c, #d36e33, #d97244, #dd7654, #e07b63, #e28171);
+}
